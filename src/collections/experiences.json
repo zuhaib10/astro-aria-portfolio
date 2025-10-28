@@ -4,27 +4,27 @@
     "role": "Web Developer & IT Support",
     "company": "Würth Professional solutions",
     "description": "Responsible for customer service and CRM systems development And Marketing.",
-    "logo": "public/assets/images/experiences/wurth.png"
+    "logo": "/zk-portfolio/assets/images/experiences/wurth.png"
   },
   {
     "dates": "Dec 2022 · Sep 2025",
     "role": "Full-Stack Developer",
     "company": "MVP Applications And Game Designs",
     "description": "Responsible for full-stack development of multiple SAAS platform.",
-    "logo": "public/assets/images/experiences/mvp.png"
+    "logo": "/zk-portfolio/assets/images/experiences/mvp.png"
   },
   {
     "dates": "Oct 2022 · Mar 2023",
     "role": "Node.JS Developer",
     "company": "ZL Technovation",
     "description": "Designing of Front end Using React.JS framework and integrating front end and backend using services API",
-    "logo": "public/assets/images/experiences/zl.png"
+    "logo": "/zk-portfolio/assets/images/experiences/zl.png"
   },
   {
     "dates": "June 2021 · Aug 2021 ",
     "role": "Internship Trainee",
     "company": "Novaitech",
     "description": "Designing of Front end Using React.Js framework and integrating front end and backend using services API",
-    "logo": "public/assets/images/experiences/novaitech.jpeg"
+    "logo": "/zk-portfolio/assets/images/experiences/novaitech.jpeg"
   }
 ]
