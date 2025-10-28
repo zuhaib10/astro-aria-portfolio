@@ -2,37 +2,37 @@
   {
     "name": "Araby.ai",
     "description": "All The latest Ai tools in one place.",
-    "image": "/assets/images/projects/araby.png",
+    "image": "public/assets/images/projects/araby.png",
     "url": "https://www.araby.ai"
   },
   {
     "name": "B-Seen",
     "description": "Drive Your Business Forward with Effective Car Advertising",
-    "image": "/assets/images/projects/bseen.png",
+    "image": "public/assets/images/projects/bseen.png",
     "url": "https://www.bseen.sa/"
   },
   {
     "name": "Emirates Red Crescent",
     "description": "Humanitarian.",
-    "image": "/assets/images/projects/erc.png",
+    "image": "public/assets/images/projects/erc.png",
     "url": "https://www.emiratesrc.ae/"
   },
   {
     "name": "DG Marketing Agency",
     "description": "Website for a marketing Agency",
-    "image": "/assets/images/projects/dg.png",
+    "image": "public/assets/images/projects/dg.png",
     "url": "https://dg-agency-marketing.netlify.app/"
   },
   {
     "name": "Epic Padel",
     "description": "Tleading padel sports management and investment company headquartered in Arlington, VA",
-    "image": "/assets/images/projects/epic.png",
+    "image": "public/assets/images/projects/epic.png",
     "url": "https://www.epic-padel.com/"
   },
   {
     "name": "Muscat Osteopathy and Wellness Centre",
     "description": "Personalized Manual Therapy, functional rehabilitation, and non-invasive solutions to ease pain, improve posture, and build long-term resilience",
-    "image": "/assets/images/projects/muscut.png",
+    "image": "public/assets/images/projects/muscut.png",
     "url": "https://oman-ostheopathy.netlify.app/"
   }
 ]
