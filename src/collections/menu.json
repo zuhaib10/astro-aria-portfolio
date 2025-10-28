@@ -1,15 +1,15 @@
 [
   {
     "name": "Home",
-    "url": "/"
+    "url": "/zk-portfolio"
   },
 
   {
     "name": "Projects",
-    "url": "/projects"
+    "url": "/zk-portfolio/projects"
   },
   {
     "name": "About",
-    "url": "/about"
+    "url": "/zk-portfolio/about"
   }
 ]
